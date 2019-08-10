@@ -8,8 +8,36 @@ body {
 }
 
 body .wrapper {
+  width: 100%;
+}
+
+body .wrap-content {
   margin: 0 auto;
   max-width: 1170px;
+}
+
+body .holder-work {
+  background: #fff;
+}
+
+body .holder-featur {
+  background: #fbfbfb;
+}
+
+body .holder-Serv {
+  background: #fff;
+}
+
+body .holder-Team {
+  background: #fbfbfb;
+}
+
+body .holder-review {
+  background: #fff;
+}
+
+body .holder-partn {
+  background: #fbfbfb;
 }
 
 body .header {
